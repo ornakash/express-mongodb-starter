@@ -1,7 +1,7 @@
 {
-  "name": "express-mongodb-starter",
+  "name": "vibrate-backend",
   "version": "1.0.0",
-  "description": "This is a Starter template for Expressjs with MongoDB",
+  "description": "Vibrate backend API",
   "main": "index.js",
   "keywords": [
     "javascript",

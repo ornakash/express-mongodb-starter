@@ -1,3 +1,3 @@
-const DB_NAME = 'express-mongo';
+const DB_NAME = 'vibrate';
 
 module.exports = { DB_NAME };
